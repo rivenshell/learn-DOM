@@ -35,9 +35,9 @@ I strongly recommend doing this the tutorials in this order:
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/4GeeksAcademy/react-exercises/master/preview.gif">
-</p>
+Pi</p>
 
-<!-- endhide -->
+<!-- endhide compression -->
 
 ## One click installation:
 
